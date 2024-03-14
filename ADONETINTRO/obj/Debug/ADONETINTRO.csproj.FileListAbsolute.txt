@@ -1,0 +1,7 @@
+C:\Users\prana\source\repos\B22DBCOMMUNICATION\ADONETINTRO\bin\Debug\ADONETINTRO.exe.config
+C:\Users\prana\source\repos\B22DBCOMMUNICATION\ADONETINTRO\bin\Debug\ADONETINTRO.exe
+C:\Users\prana\source\repos\B22DBCOMMUNICATION\ADONETINTRO\bin\Debug\ADONETINTRO.pdb
+C:\Users\prana\source\repos\B22DBCOMMUNICATION\ADONETINTRO\obj\Debug\ADONETINTRO.csproj.AssemblyReference.cache
+C:\Users\prana\source\repos\B22DBCOMMUNICATION\ADONETINTRO\obj\Debug\ADONETINTRO.csproj.CoreCompileInputs.cache
+C:\Users\prana\source\repos\B22DBCOMMUNICATION\ADONETINTRO\obj\Debug\ADONETINTRO.exe
+C:\Users\prana\source\repos\B22DBCOMMUNICATION\ADONETINTRO\obj\Debug\ADONETINTRO.pdb
